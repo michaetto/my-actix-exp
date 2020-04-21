@@ -1,0 +1,6 @@
+@protocol=http
+@host=127.0.0.1
+@port=8088
+
+###
+GET {{protocol}}://{{host}}:{{port}}/ HTTP/1.1
